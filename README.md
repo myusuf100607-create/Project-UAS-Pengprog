@@ -3,8 +3,9 @@
 
 **TUGAS KELOMPOK**
 
-Muhamad Yusuf (25552011061)
-Muhammad Rafi Musyafa (25552011084)
+1. Muhamad Yusuf (25552011061)
+
+2. Muhammad Rafi Musyafa (25552011084)
 
 ### 📖 Deskripsi
 Program CLI sederhana ini dibuat untuk pengelolaan keuangan bulanan seorang pengguna, khususnya mahasiswa, yang memiliki pemasukan dan pengeluaran dalam satu periode tertentu. Pengguna memasukkan data pemasukan serta data pengeluaran yang dikelompokkan ke dalam tiga kategori, yaitu kebutuhan primer, sekunder, dan tersier.
