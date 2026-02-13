@@ -37,7 +37,7 @@ permasalahan menggunakan pemrograman.
 #### 1. Flowchart
 Berikut adalah alur logika program ini:
 ![Flowchart Program](docs/PROJECT_PENGPROG.jpg)
-*(Pastikan nama file gambar lu bener ya bro!)*
+
 
 #### 2. Pseudocode
 ```text
