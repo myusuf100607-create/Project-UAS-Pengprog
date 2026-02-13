@@ -1,0 +1,51 @@
+Mulai
+
+Inisialisasi list transaksi Inisialisasi total_pemasukan = 0
+
+Selama program berjalan: Tampilkan menu utama Input pilihan menu
+
+Jika pilihan = 1:
+    Input jumlah pemasukan
+    Tambahkan ke total_pemasukan
+
+Jika pilihan = 2:
+    Tampilkan pilihan kategori pengeluaran
+    Input kategori pengeluaran
+    Input keterangan pengeluaran
+    Input nominal pengeluaran
+    Simpan data pengeluaran ke dalam list transaksi
+
+Jika pilihan = 3:
+    Jika transaksi kosong:
+        Tampilkan pesan "Belum ada transaksi"
+    Jika tidak:
+        Tampilkan seluruh data transaksi
+
+Jika pilihan = 4:
+    Hitung total pengeluaran
+    Hitung total pengeluaran primer
+    Hitung total pengeluaran sekunder
+    Hitung total pengeluaran tersier
+    Hitung saldo akhir
+
+    Tampilkan ringkasan keuangan
+
+    Jika total pengeluaran lebih besar dari total pemasukan:
+        Tampilkan peringatan pengeluaran melebihi pemasukan
+
+    Jika pengeluaran sekunder lebih dari 50% pemasukan:
+        Tampilkan saran untuk mengurangi pengeluaran sekunder
+
+    Jika pengeluaran tersier lebih dari 25% pemasukan:
+        Tampilkan saran untuk membatasi pengeluaran tersier
+
+    Jika pengeluaran masih dalam batas wajar:
+        Tampilkan pesan pengelolaan keuangan baik
+
+Jika pilihan = 5:
+    Tampilkan pesan keluar
+    Hentikan program
+
+Jika pilihan tidak valid:
+    Tampilkan pesan kesalahan
+Selesai
