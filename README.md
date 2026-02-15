@@ -28,6 +28,15 @@ keuangan dengan lebih bijak.
 5. Melatih kemampuan berpikir logis dan terstruktur dalam menyelesaikan 
 permasalahan menggunakan pemrograman.
 
+
+
+### ✨ Fitur Utama
+- **Manajemen Transaksi:** Mencatat pemasukan dan pengeluaran berdasarkan kategori (Primer, Sekunder, Tersier).
+- **Penyimpanan Permanen (Database CSV):** Data tidak akan hilang saat program ditutup. Otomatis tersimpan ke dalam file `catatan_keuangan.csv` yang terstruktur rapi dan bisa langsung dibuka di Microsoft Excel.
+- **Evaluasi Finansial Pintar:** Sistem akan menganalisis pengeluaran dan memberikan peringatan otomatis jika pengeluaran untuk keinginan (sekunder/tersier) melebihi batas standar 50/30/20.
+- **Antarmuka CLI yang Rapi:** Menampilkan data dalam bentuk tabel menggunakan teknik formatting *f-strings* pada Python.
+
+
 ### Screenshot Output
 ![Banner/Screenshot](docs/menu-utama.png)
 ![Banner/Screenshot](docs/ringkasan-transaksi.png)
